@@ -8,6 +8,7 @@ Image Upload: Users can upload images through a simple web interface.
 Google Vision API: Uses the Google Vision API to analyze the uploaded image.
 Image Comparison: Compares the uploaded image with other images stored in a cloud service to find matches.
 Results Display: Displays the matches based on similarity or other criteria returned by the Vision API.
+
 System Requirements
 To run this project, ensure you have the following installed:
 Python (>= 3.7)
